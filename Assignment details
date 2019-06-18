@@ -1,0 +1,6 @@
+Problem 1: Get Twitter Data(Output.JSON)
+Problem 2: Derive the sentiment of each tweet(tweet_sentiment.py)
+Problem 3: Derive the sentiment of new terms(term_sentiment.py)
+Problem 4: Compute Term Frequency(frequency.py)
+Problem 5: Which State is happiest?(happiest_state.py)
+Problem 6: Top ten hash tags(top_ten.py)
